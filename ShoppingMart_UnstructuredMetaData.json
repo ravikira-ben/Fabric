@@ -19,7 +19,7 @@
         "FolderName" : "Web_Logs",
         "FileName" : "web_logs.json",
         "SchemaName" : "RAW",
-        "TableName" : "web_logs
+        "TableName" : "web_logs"
 
     }
 ]
