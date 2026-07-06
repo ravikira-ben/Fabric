@@ -7,7 +7,7 @@
         "TableName" : "Reviews"
     },
     {
-         "source_url" : "ravikira-ben/Fabric/refs/heads/main/ShoppingMart_UnstructuredData/social_media.json",
+        "source_url" : "ravikira-ben/Fabric/refs/heads/main/ShoppingMart_UnstructuredData/social_media.json",
         "FolderName" : "Social_Media",
         "FileName" : "social_media.json"
         "SchemaName" : "RAW",
