@@ -2,24 +2,24 @@
     {
         "source_url" : "ravikira-ben/Fabric/refs/heads/main/ShoppingMart_UnstructuredData/reviews.json",
         "FolderName" : "Reviews",
-        "FileName" : "review.json",
+        "FileName"   : "review.json",
         "SchemaName" : "RAW",
-        "TableName" : "Reviews"
+        "TableName"  : "Reviews"
     },
     {
         "source_url" : "ravikira-ben/Fabric/refs/heads/main/ShoppingMart_UnstructuredData/social_media.json",
         "FolderName" : "Social_Media",
-        "FileName" : "social_media.json"
+        "FileName"   : "social_media.json"
         "SchemaName" : "RAW",
-        "TableName" : "Social_Media"
+        "TableName"  : "Social_Media"
 
     },
     {
         "source_url" : "ravikira-ben/Fabric/refs/heads/main/ShoppingMart_UnstructuredData/web_logs.json",
         "FolderName" : "Web_Logs",
-        "FileName" : "web_logs.json",
+        "FileName"   : "web_logs.json",
         "SchemaName" : "RAW",
-        "TableName" : "web_logs"
+        "TableName"  : "web_logs"
 
     }
 ]
